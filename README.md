@@ -135,3 +135,5 @@ Port Scanner project/
     * Specific service (e.g., SSH on port 22) is running on target.
     * Check firewalls (host/target). For older VMs, manually enable/start SSH service (`sudo systemctl start ssh`) and check `iptables` (`sudo iptables -L -n`).
     * For manual SSH/SCP to older VMs, use `-oHostKeyAlgorithms=+ssh-rsa`.
+
+    **This project is awesome!**
